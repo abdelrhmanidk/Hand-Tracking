@@ -13,6 +13,6 @@ A hand-tracking module using OpenCV and MediaPipe. This module allows for real-t
 To get started with this project, clone the repository and install the required dependencies.
 
 ```bash
-git clone https://github.com/abdelrhmanidk/handtrackingmodel.git
+git clone https://github.com/abdelrhmanidk/Hand-Tracking
 cd handtrackingmodel
 pip install -r requirements.txt
